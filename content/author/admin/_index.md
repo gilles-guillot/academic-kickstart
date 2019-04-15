@@ -85,5 +85,5 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Born in Lyon, France. Academic career in France, Norway and Denmark. Founder and principal scientist of Swarm, Copenhagen. 
-Visiting scientist in Sweden,  Mexico, Japan and Chile and taught shorter courses in data analytics methods at all levels in more than ten countries worldwide.
+Visiting scientist in Sweden,  Mexico, Japan and Chile and lecturer for short courses in data analytics methods at all levels in more than ten countries worldwide.
 
