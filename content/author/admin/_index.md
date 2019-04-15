@@ -25,9 +25,9 @@ email = "gilles.b.guillot@gmail.com"
 interests = [
   "Statistics",
   "Machine learning",
-  "Stochastic modelling"
-  "Stochastic simulations"
-  "Bioinformatics"
+  "Stochastic modelling",
+  "Stochastic simulations",
+  "Bioinformatics",
   "Epidemiology"
 ]
 
