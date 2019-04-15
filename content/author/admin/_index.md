@@ -46,7 +46,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 1995
 
 [[education.courses]]
-  course = "Data Management and Statistics"
+  course = "MSc Data Management, Econometrics and Statistics"
   institution = "Ecole Nationale de la Statistique et de l'Administration Economique, Paris, France"
   year = 1994
 
@@ -85,6 +85,5 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Gilles Guillot was born in Lyon, France and had an academic career in statistics and machine learning in France, Norway and Denmark. He was the founder and principal scientist of Swarm, a private consultancy company providing statistical support to public contractors in Scandinavia. From 2015 to 2018, he worked at the European Food Safety Authority in Parma as a Scientific Administrator in Statistics.
-
 He has been a visiting scientist in Sweden,  Mexico, Japan and Chile and taught shorter courses in data analytics methods at all levels in more than ten countries worldwide.
 
