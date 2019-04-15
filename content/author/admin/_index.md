@@ -25,7 +25,10 @@ email = "gilles.b.guillot@gmail.com"
 interests = [
   "Statistics",
   "Machine learning",
-  "Information Retrieval"
+  "Stochastic modelling"
+  "Stochastic simulations"
+  "Bioinformatics"
+  "Epidemiology"
 ]
 
 # Organizational groups that you belong to (for People widget)
