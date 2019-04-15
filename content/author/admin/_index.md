@@ -1,5 +1,5 @@
 +++
-# Display name
+# Display name 
 name = "Gilles Guillot"
 
 # Username (this should match the folder name)
@@ -58,7 +58,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "gilles.b.guillot@gmail.com"
+  link = "mailto:gilles.b.guillot@gmail.com"
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
