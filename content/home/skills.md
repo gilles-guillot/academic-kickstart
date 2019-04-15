@@ -25,5 +25,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "100%"    
+ 
 +++
