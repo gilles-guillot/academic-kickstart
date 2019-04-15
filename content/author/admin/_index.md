@@ -13,7 +13,7 @@ role = "Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+# organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My professional interests include data mining, stochasting modelling, computational statistical methods, bioinformatics and epidemiology."
@@ -25,7 +25,9 @@ email = "gilles.b.guillot@gmail.com"
 interests = [
   "Statistics",
   "Machine learning",
-  "Information Retrieval"
+  "Bioinformatics",
+  "Epidemiology"
+  "Stochastic simulations"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -44,8 +46,8 @@ user_groups = ["Researchers", "Visitors"]
   year = 1995
 
 [[education.courses]]
-  course = "Data Management and Statistics"
-  institution = "Ecole NAtionale de la Statistique et de l'Administration Economique"
+  course = "MSc Data Management and Statistics"
+  institution = "Ecole Nationale de la Statistique et de l'Administration Economique"
   year = 1994
 
 # Social/Academic Networking
