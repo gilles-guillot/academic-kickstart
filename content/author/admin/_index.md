@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Gilles Guillot"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,22 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My professional interests include data mining, stochasting modelling, computational statistical methods, bioinformatics and epidemiology."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "gilles.b.guillot@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
+  "Statistics",
+  "Machine learning",
   "Information Retrieval"
 ]
 
@@ -34,19 +34,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geophysics"
+  institution = "Université de Grenoble, France"
+  year = 1998
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Geostatistics"
+  institution = "Ecole des Mines, Paris, France"
+  year = 1995
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Data Management and Statistics"
+  institution = "Ecole NAtionale de la Statistique et de l'Administration Economique"
+  year = 1994
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
