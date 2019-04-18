@@ -28,6 +28,7 @@ interests = [
   "Stochastic simulations",
   "Bioinformatics",
   "Epidemiology"
+  "Risk Assessment"
 ]
 
 # Organizational groups that you belong to (for People widget)
