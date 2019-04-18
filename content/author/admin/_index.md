@@ -16,7 +16,7 @@ role = "Data Scientist"
 organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My professional interests include data mining, stochasting modelling, computational statistical methods, bioinformatics and epidemiology."
+bio = "My professional interests include data mining, stochasting modelling, computational statistical methods, bioinformatics, epidemiology and risk assessment."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "gilles.b.guillot@gmail.com"
@@ -27,7 +27,7 @@ interests = [
   "Stochastic modelling",
   "Stochastic simulations",
   "Bioinformatics",
-  "Epidemiology"
+  "Epidemiology",
   "Risk Assessment"
 ]
 
@@ -86,5 +86,5 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Born in Lyon, France. Academic career in France, Norway and Denmark. Founder and principal scientist of Swarm, Copenhagen. 
-Visiting scientist in Sweden,  Mexico, Japan and Chile and lecturer for short courses in data analytics methods at all levels in more than ten countries worldwide.
+Visiting scientist in Sweden,  Mexico, Japan and Chile and lecturer for short courses in data analytics methods at all levels in more than ten countries worldwide. My professional interests include data mining, stochasting modelling, computational statistical methods, bioinformatics, epidemiology and risk assessment.
 
